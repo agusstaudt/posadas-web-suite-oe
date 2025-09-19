@@ -1,0 +1,9 @@
+# dependencias
+node_modules/
+# credenciales
+.env
+secrets.json
+# Apps Script (no exponer IDs ni tokens)
+.clasp.json
+.clasprc.json
+.clasp.json.local
