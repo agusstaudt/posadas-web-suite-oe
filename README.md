@@ -14,14 +14,20 @@ Cada aplicación fue diseñada para resolver necesidades específicas de registr
 Aplicación web para la inscripción a simulacros de entrevistas para personas con discapacidad.
 Incluye validación de datos, control de duplicados y registro automático en Google Sheets, con el fin de facilitar la organización de inscripciones realizadas por la Oficina de Empleo.
 
+Link del proyecto a producción: https://script.google.com/macros/s/AKfycbxGOWOgovjS_uWfOHtE4FDXfZ7Y7tIbAfsSc-3lFYCs8zUZ3chYBmkPoFAm-sela-12/exec
 2. apps/simulacro-entrevistas-generales
 Aplicación similar a la anterior, centrada en entrevistas laborales a nivel general.
+
+Link del proyecto a producción: https://script.google.com/macros/s/AKfycbyB32LKiLyh-d0KMBvrBGh76DfEDIzxi78MMyyaWeS4EFvknnuZfUcMBCKXlMjqkDrR/exec
 
 3. apps/formulario-at-publico-capacitaciones
 
 Se compone de dos formularios: 
 El primero es un formulario de chequeo de registro en Atención al Público. El cual sirve para corroborar si la persona que ingresa a la Oficina de Empleo lo hace por primera vez, o no. De manera tal de definir si es necesario relevar todos los datos socioeconómicos de la persona (acción que se realiza la primera vez). Este formulario incluye la importación y carga de datos de la encuesta de Atención al Público en Kobotoolbox, que se realiza automáticamente en triggers de 1 minuto. Con el motivo de actualizaciones constantes para revisión de inscriptos, como el mencionado antes, y para el formulario de capacitaciones. 
 El Formulario digital de inscripción a capacitaciones es el segundo formulario en apps/formulario-at-publico-capacitaciones. Este inscribe a las personas que pasan por atención al público con el interés de inscribirse a alguno de los cursos disponibles a realizarse en la Oficina de Empleo.
+
+Link del proyecto I a producción: https://script.google.com/macros/s/AKfycbxtPlk3vdgTttAhjUrny-HWc5tW8RS5IQSsY84XludJWcidAHpNPv83dImh9eRt4msf/exec
+Link del proyecto II a producción: https://script.google.com/macros/s/AKfycbxtPlk3vdgTttAhjUrny-HWc5tW8RS5IQSsY84XludJWcidAHpNPv83dImh9eRt4msf/exec?pagina=formulario
 
 La programación web de las tres aplicaciones incluyen la validación de datos, control de duplicados y registro automático en Google Sheets, con el fin de facilitar la organización de cursos, talleres y capacitaciones ofrecidas por la Oficina de Empleo.
 
