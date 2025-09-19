@@ -39,7 +39,8 @@ La programación web de las tres aplicaciones incluyen la validación de datos, 
 🚀 Objetivo
 
 Con este conjunto de aplicaciones, la Oficina de Empleo de Posadas:
-	•	Mejora la eficiencia en la gestión de inscripciones y entrevistas.
-	•	Evita errores y duplicaciones propias del registro manual.
-	•	Centraliza la información en hojas de cálculo online.
-	•	Ofrece herramientas digitales accesibles tanto para trabajadores como para empleadores.
+
+ - Mejora la eficiencia en la gestión de inscripciones y entrevistas.
+ - Evita errores y duplicaciones propias del registro manual.
+ - Centraliza la información en hojas de cálculo online.
+ - Ofrece herramientas digitales accesibles tanto para trabajadores como para empleadores.
