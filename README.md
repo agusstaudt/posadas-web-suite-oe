@@ -28,10 +28,11 @@ La programación web de las tres aplicaciones incluyen la validación de datos, 
 ⸻
 
 ⚙️ Tecnologías utilizadas
-	•	Frontend: HTML5, CSS3, JavaScript
-	•	Framework de estilos: TailwindCSS (para algunos formularios)
-	•	Backend: Google Apps Script (lógica del servidor, conexión con Google Sheets y procesamiento de datos)
-	•	Base de datos: Google Sheets (almacenamiento estructurado y accesible)
+	
+ - Frontend: HTML5, CSS3, JavaScript
+ - Framework de estilos: TailwindCSS (para algunos formularios)
+ - Backend: Google Apps Script (lógica del servidor, conexión con Google Sheets y procesamiento de datos)
+ - Base de datos: Google Sheets (almacenamiento estructurado y accesible)
 
 ⸻
 
